@@ -1,0 +1,104 @@
+﻿Capability,Domain,Operation,Record,Values,Documentation,URL,Designed for roles,Screens,Accessible from Entry point,Roles with access to screens
+"Create, Read, Update, Delete | Part: Cost",OS,"Create,Read,Update,Delete",Part,Cost,,,"5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User","""
+Catalog Management
+""",Catalog Management,"2. ADMINISTRATOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,1. DEVELOPER,. NGE - Business User"
+"Create, Read, Update, Delete | Part: Vendor price break",OS,"Create,Read,Update,Delete",Part,Vendor price break,,,"5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User","""
+Catalog Management
+""",Catalog Management,"2. ADMINISTRATOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,1. DEVELOPER,. NGE - Business User"
+Read | Part: Alternate PNs,OS,Read,Part,Alternate PNs,,,"5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User","""
+Catalog Management
+""",Catalog Management,"2. ADMINISTRATOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,1. DEVELOPER,. NGE - Business User"
+"Create, Read, Update, Delete | Tier-Part pricing: ",OS,"Create,Read,Update,Delete",Tier-Part pricing,,,,"4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,. NGE - Business User","""
+Customer Tiers Modal
+""","Customer Tiers,Catalog Management","2. ADMINISTRATOR,7. PRODUCT LINE DIRECTOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,1. DEVELOPER,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User,2. ADMINISTRATOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,1. DEVELOPER,. NGE - Business User"
+"Read, Update | Tier-Part pricing: ",OS,"Read,Update",Tier-Part pricing,,,,"5. PRODUCT LINE,. NGE - Business User","""
+Customer Tiers Modal
+""","Customer Tiers,Catalog Management","2. ADMINISTRATOR,7. PRODUCT LINE DIRECTOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,1. DEVELOPER,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User,2. ADMINISTRATOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,1. DEVELOPER,. NGE - Business User"
+Read | Tier-Part pricing: ,OS,Read,Tier-Part pricing,,,,"12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User","""
+Customer Tiers Modal
+""","Customer Tiers,Catalog Management","2. ADMINISTRATOR,7. PRODUCT LINE DIRECTOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,1. DEVELOPER,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User,2. ADMINISTRATOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,1. DEVELOPER,. NGE - Business User"
+"Create, Read, Update, Delete | Tier-FSC pricing: ",OS,"Create,Read,Update,Delete",Tier-FSC pricing,,,,"4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,. NGE - Business User","""
+Customer Tiers Modal
+""","Customer Tiers,Catalog Management","2. ADMINISTRATOR,7. PRODUCT LINE DIRECTOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,1. DEVELOPER,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User,2. ADMINISTRATOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,1. DEVELOPER,. NGE - Business User"
+"Read, Update | Tier-FSC pricing: ",OS,"Read,Update",Tier-FSC pricing,,,,"5. PRODUCT LINE,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User","""
+Customer Tiers Modal
+""","Customer Tiers,Catalog Management","2. ADMINISTRATOR,7. PRODUCT LINE DIRECTOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,1. DEVELOPER,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User,2. ADMINISTRATOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,1. DEVELOPER,. NGE - Business User"
+Read | Tier-FSC pricing: ,OS,Read,Tier-FSC pricing,,,,"12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User","""
+Customer Tiers Modal
+""","Customer Tiers,Catalog Management","2. ADMINISTRATOR,7. PRODUCT LINE DIRECTOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,1. DEVELOPER,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User,2. ADMINISTRATOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,1. DEVELOPER,. NGE - Business User"
+"Create, Read, Update | Tier- Customers: ",OS,"Create,Read,Update",Tier- Customers,,,,"4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,. NGE - Business User","""
+Customer Tiers - Customers 
+""",Customer Tiers,"2. ADMINISTRATOR,7. PRODUCT LINE DIRECTOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,1. DEVELOPER,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User"
+Read | Tier- Customers: ,OS,Read,Tier- Customers,,,,"5. PRODUCT LINE,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User","""
+Customer Tiers - Customers 
+""",Customer Tiers,"2. ADMINISTRATOR,7. PRODUCT LINE DIRECTOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,1. DEVELOPER,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User"
+"Create, Read, Update | Customer-Tier: Sequence",OS,"Create,Read,Update",Customer-Tier,Sequence,,,"4. PRODUCT LINE ANALYST,7. PRODUCT LINE DIRECTOR,. NGE - Business User","""
+Customer Tiers - Customers 
+""",Customer Tiers,"2. ADMINISTRATOR,7. PRODUCT LINE DIRECTOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,1. DEVELOPER,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User"
+Read | Customer-Tier: Sequence,OS,Read,Customer-Tier,Sequence,,,"5. PRODUCT LINE,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User","""
+Customer Tiers - Customers 
+""",Customer Tiers,"2. ADMINISTRATOR,7. PRODUCT LINE DIRECTOR,5. PRODUCT LINE,4. PRODUCT LINE ANALYST,1. DEVELOPER,12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User"
+"Read | OEM Pricing: Spreadsheet export
+",OS,Read,OEM Pricing,"Spreadsheet export
+",,,"12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User",,,
+"Create, Update | OEM Pricing: Excel import
+
+
+",OS,"Create,Update",OEM Pricing,"Excel import
+
+
+",,,"7. PRODUCT LINE DIRECTOR,4. PRODUCT LINE ANALYST,. NGE - Business User",,,
+Read | OEM: Pricing,OS,Read,OEM,Pricing,,,"12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User",,,
+"Create, Read | Test pricing: ",OS,"Create,Read",Test pricing,,,,"12. SALES DIRECTOR,6. SALES MANAGER,3. SALES REP,. NGE - Business User",,,
+"Read | Teardown mother tag: - Bar code
+- Part
+- FSC
+- Description
+- Division
+- Status
+- Serial no
+- Tag
+- Grp
+- Location
+- Customs ref no
+- Customs dec
+- PO no
+- Line
+- Vendor no
+- Vendor name",Trading,Read,Teardown mother tag,"- Bar code
+- Part
+- FSC
+- Description
+- Division
+- Status
+- Serial no
+- Tag
+- Grp
+- Location
+- Customs ref no
+- Customs dec
+- PO no
+- Line
+- Vendor no
+- Vendor name","You can search for teardown mother tags using the part's barcode or tag number. Enter your search term(s), then press ""Search"".
+ 
+The results will only include teardown eligible and tear-down-in-process mother tags for the divisions you have. Searching by barcode will always return one mother tag, but searching by tag can result in multiple matches, possibly in different divisions.
+ 
+If the resulting mother tags are in multiple divisions, then a dropdown selector will require you to select which division the part belongs to. If there are numerous mother tag matches in a single division, two chevron arrow buttons will appear on the left and right of the mother tag section, allowing you to cycle through the matches returned.
+",https://aar.sharepoint.com/sites/ConcourseTrainingMaterials/SitePages/Search-for-teardown-mother-tag.aspx,14. REPAIR COORDINATOR,,,
+"Read | Teardown child parts: - Part
+- FSC
+- Keyword
+- Qty
+- UOM
+- Grop Cd.
+- Tag",Trading,Read,Teardown child parts,"- Part
+- FSC
+- Keyword
+- Qty
+- UOM
+- Grop Cd.
+- Tag","Once you've searched for a mother tag, you can view key details about it and all the child parts created against it.
+ 
+The global filter text field in the top right corner of the child part table allows you to search for text across any column in the table. Additionally, you can export the data as a CSV using the blue download icon button. Clicking on the column header toggles the sort directions for each column.
+",https://aar.sharepoint.com/sites/ConcourseTrainingMaterials/SitePages/View-a-teardown-mother-tag.aspx,14. REPAIR COORDINATOR,,,
