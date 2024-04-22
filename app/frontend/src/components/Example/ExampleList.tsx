@@ -3,10 +3,14 @@ import { Example } from "./Example";
 import styles from "./Example.module.css";
 
 const DEFAULT_EXAMPLES: string[] = [
-    "Can you find me a part number for which a fan blade has been completed?",
-    "Give me detailed explanation about FAA order 8130.21G?",
-    "Are there any penalities stated in the distribution agreement related documents?"
+    "How can I add or remove a cost in Concourse?",
+    "Where can I view tier pricing for a part number?",
+    "How do I find my vendor number to use in Bulk Upload?"
 ];
+
+// "Can you find me a part number for which a fan blade has been completed?",
+// "Give me detailed explanation about FAA order 8130.21G?",
+// "Are there any penalities stated in the distribution agreement related documents?"
 
 const GPT4V_EXAMPLES: string[] = [
     "Compare the impact of interest rates and GDP in financial markets.",

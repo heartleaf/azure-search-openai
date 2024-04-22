@@ -64,7 +64,7 @@ if [ -n "$USE_FEATURE_INT_VECTORIZATION" ]; then
   integratedVectorizationArg="--useintvectorization $USE_FEATURE_INT_VECTORIZATION"
 fi
 
-./scripts/.venv/bin/python ./scripts/prepdocs.py './data/Concourse*.csv' --verbose \
+./scripts/.venv/bin/python ./scripts/prepdocs.py './data/InfoTip -View Pricing Tiers - April 2023.docx' --verbose \
 --subscriptionid $AZURE_SUBSCRIPTION_ID  \
 --storageaccount "$AZURE_STORAGE_ACCOUNT" --container "$AZURE_STORAGE_CONTAINER" --storageresourcegroup $AZURE_STORAGE_RESOURCE_GROUP \
 --searchservice "$AZURE_SEARCH_SERVICE" --index "$AZURE_SEARCH_INDEX" \
@@ -78,4 +78,5 @@ $adlsGen2StorageAccountArg $adlsGen2FilesystemArg $adlsGen2FilesystemPathArg \
 $tenantArg $aclArg \
 $disableVectorsArg $localPdfParserArg $localHtmlParserArg \
 $keyVaultName \
-$integratedVectorizationArg
+$integratedVectorizationArg \
+--remove
